@@ -71,7 +71,7 @@ useEffect(() => {
 } , [id]);
 
 console.log("fondo renderizado")
-
+console.log(selectedPokemonDetails)
   return (
     <>
       <div className="h-auto w-auto"> 
